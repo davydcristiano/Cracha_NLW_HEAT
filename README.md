@@ -8,8 +8,9 @@
 
 OBS: Eu não adicionei o script.js, pois nesse evento o mais importante foi fazer a parte visual, o Front-End em sí...
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" width="300px" align="center"></img>
+</p>
 
 ## Skills Praticadas
 
