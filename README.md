@@ -2,11 +2,11 @@
 
 ## Crachá Digital
 
-Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas da NLW!
+Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - a onde criei o crachá digital junto com o instrutor @Maykbrito nas aulas da NLW!
 
 OBS: Eu não adicionei o script.js, pois nesse evento o mais importante foi fazer a parte visual, o Front-End em sí...
 
-<img src="https://user-images.githubusercontent.com/53920878/138581152-48b8b1c5-d65c-4e31-a4dc-1a97677425bb.png" width="300px" align="center"></img>
+<img src="https://user-images.githubusercontent.com/53920878/138584734-41ff08e9-eea6-4025-b647-d914f08c130c.png" width="300px" align="center"></img>
 
 ## Skills Praticadas
 
