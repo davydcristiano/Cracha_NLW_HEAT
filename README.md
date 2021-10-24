@@ -4,6 +4,8 @@
 
 Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas 1, 2 & 3!
 
+OBS: Eu não adicionei o script.js, pois nesse evento o mais importante foi fazer a parte visual, o Front-End em sí...
+
 <img src="https://user-images.githubusercontent.com/53920878/138581152-48b8b1c5-d65c-4e31-a4dc-1a97677425bb.png" width="300px" align="center"></img>
 
 ## Skills Praticadas
