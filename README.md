@@ -2,9 +2,9 @@
 
 ## Crachá Digital
 
-Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas 1, 2 & 3
+Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas 1, 2 & 3!
 
-<img src="https://user-images.githubusercontent.com/53920878/138578728-e7fe6c7b-1107-410d-b624-e3d32a2cc2d8.jpg" align="center"></img>
+<img src="https://user-images.githubusercontent.com/53920878/138581152-48b8b1c5-d65c-4e31-a4dc-1a97677425bb.png" width="300px" align="center"></img>
 
 ## Skills Praticadas
 
