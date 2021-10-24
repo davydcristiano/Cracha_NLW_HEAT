@@ -2,7 +2,7 @@
 
 ## Crachá Digital
 
-Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas 1, 2 & 3!
+Nessa atividade eu participei do evento da Rocketseat "NLW-Heat" - criei o crachá digital junto com o @Maykbrito nas aulas da NLW!
 
 OBS: Eu não adicionei o script.js, pois nesse evento o mais importante foi fazer a parte visual, o Front-End em sí...
 
